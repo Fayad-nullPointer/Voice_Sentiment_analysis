@@ -1,0 +1,7 @@
+whisper
+transformers
+flask
+threading
+os
+uuid
+subprocess
